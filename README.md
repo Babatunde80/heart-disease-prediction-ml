@@ -1,7 +1,8 @@
 # Heart Disease Prediction ML for Medical Technology
+<img width="1536" height="1024" alt="Copilot_20260212_113807" src="https://github.com/user-attachments/assets/17b566c7-9396-4bcc-8638-7965dc244590" />
 
 ## Project Overview
-A machine learning-based system for predicting diabetes risk using clinical health indicators. This project leverages Supervised Machine Learning algorithms to provide accurate predictions and help in early detection of diabetes, supporting healthcare professionals in making informed decisions.
+A machine learning-based system for predicting diabetes risk using clinical health indicators. This project leverages Supervised Machine Learning algorithms to provide accurate predictions and help in early detection of heart disease, supporting healthcare professionals in making informed decisions.
 
 ## Executive Summary
 Built a binary classification model using Logistic Regression to predict heart disease presence with **80% accuracy** on test data. The model analyzes 13 cardiovascular risk factors to identify at-risk patients, enabling proactive cardiac care and potentially life-saving early interventions.
@@ -36,3 +37,9 @@ Implement this model in clinical settings to:
 - **Optimize specialist referrals** by triaging patients based on AI-calculated risk scores
 
 **Next Steps**: Enhance model accuracy to 90%+ using ensemble methods (Random Forest, XGBoost), integrate with EHR systems, and conduct prospective clinical trials to validate real-world effectiveness.
+
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
