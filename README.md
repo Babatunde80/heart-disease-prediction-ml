@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using Machine Learning
+# Heart Disease Prediction ML for Medical Technology
 
 ## Executive Summary
 Built a binary classification model using Logistic Regression to predict heart disease presence with **80% accuracy** on test data. The model analyzes 13 cardiovascular risk factors to identify at-risk patients, enabling proactive cardiac care and potentially life-saving early interventions.
