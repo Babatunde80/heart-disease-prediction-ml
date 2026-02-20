@@ -4,7 +4,7 @@
 ## Project Overview
 A machine learning-based system for predicting diabetes risk using clinical health indicators. This project leverages Supervised Machine Learning algorithms to provide accurate predictions and help in early detection of heart disease, supporting healthcare professionals in making informed decisions.
 
-Industry: Medical
+**Industry:** Healthcare/Medical
 
 ## Executive Summary
 Built a binary classification model using Logistic Regression to predict heart disease presence with **80% accuracy** on test data. The model analyzes 13 cardiovascular risk factors to identify at-risk patients, enabling proactive cardiac care and potentially life-saving early interventions.
